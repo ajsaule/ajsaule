@@ -1,6 +1,4 @@
-### Hi there, I'm Andrej 👋
-
-https://andrejsaule.com
+### Hi there, I'm [Andrej!](https://wwww.andrejsaule.com) 👋
 
 [<img align="left" alt="AndrejSaule | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="KevinGarciaFernandez | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
