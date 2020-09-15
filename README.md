@@ -1,5 +1,8 @@
 ### Hi there, I'm Andrej 👋
 
+[linkedin]: https://www.linkedin.com/in/andrejsaule/
+[twitter]: https://twitter.com/ajsaule
+
 I'm here to learn all about the best tooling and practices for building web applications. I want to help increase the usability of software so that all demographics can participate and use modern technologies.
 
 ---
