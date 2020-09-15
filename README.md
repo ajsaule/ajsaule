@@ -21,7 +21,7 @@
 <details> 
   <summary> Github Stats </summary>
   
-  <img align="left" src="https://github-readme-stats-indol-gamma.vercel.app/api/top-langs?username=ajsaule" />
+  <img align="left" src="https://github-readme-stats-indol-gamma.vercel.app/api/top-langs?username=ajsaule&layout=compact&langs_count=8" />
 </details>  
 
 <!--
