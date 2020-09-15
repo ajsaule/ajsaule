@@ -7,7 +7,7 @@
 <br />
 <br />
 
-I'm here to learn all about the best tooling and practices for building web applications. I want to design great software for the development of  applications that will assist people and comapnies to achieve their goals.
+I'm learning all about the best practices and tooling to build web applications. I want to design great software for applications that will assist people and comapnies achieve their goals.
 
 ---
 
