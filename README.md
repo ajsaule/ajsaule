@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+https://github-readme-stats.ajsaule.vercel.app/
 <!--
 **ajsaule/ajsaule** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
