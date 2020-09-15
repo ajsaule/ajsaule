@@ -2,7 +2,7 @@
 <details> 
   <summary> Github Stats </summary>
   
-  <img align="left" src="https://github-readme-stats.ajsaule.vercel.app/api?username=ajsaule" />
+  <img align="left" src="https://github-readme-stats-indol-gamma.vercel.app/api?username=ajsaule" />
 </details>  
 
 <!--
