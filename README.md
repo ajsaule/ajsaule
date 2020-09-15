@@ -1,7 +1,8 @@
 ### Hi there 👋
 <details> 
   <summary> Github Stats </summary>
-  <img align="left" src="https://github-readme-stats.ajsaule.vercel.app/api?username=ajsaule&repo=github-readme-stats" />
+  
+  <img align="left" src="https://github-readme-stats.ajsaule.vercel.app/api?username=ajsaule" />
 </details>  
 
 <!--
