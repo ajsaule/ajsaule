@@ -1,5 +1,7 @@
 ### Hi there, I'm Andrej 👋
 
+[<img align="left" alt="AndrejSaule | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="KevinGarciaFernandez | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [linkedin]: https://www.linkedin.com/in/andrejsaule/
 [twitter]: https://twitter.com/ajsaule
 
