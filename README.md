@@ -1,6 +1,6 @@
 ### Hi there, I'm Andrej 👋
 
-I'm here to learn all about the best tooling and practices for building web applications. I want to help increase the usabiltiy of software so that all demographics can participate and use modern technologie, growing personally and progressionally along the way. 
+I'm here to learn all about the best tooling and practices for building web applications. I want to help increase the usability of software so that all demographics can participate and use modern technologies, growing personally and professionally along the way. 
 
 ---
 
@@ -21,7 +21,7 @@ I'm here to learn all about the best tooling and practices for building web appl
 <details> 
   <summary> Github Stats </summary>
   
-  <img align="left" width="100%" src="https://github-readme-stats-indol-gamma.vercel.app/api/top-langs?username=ajsaule&layout=compact&langs_count=8" />
+  <img align="left" width="100%" height="25px" src="https://github-readme-stats-indol-gamma.vercel.app/api/top-langs?username=ajsaule&layout=compact&langs_count=8" />
 </details>  
 
 <!--
