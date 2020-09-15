@@ -1,6 +1,6 @@
 ### Hi there, I'm Andrej 👋
 
-I'm here to learn all about the best tooling and practices for building web applications. I want to help increase the usability of software so that all demographics can participate and use modern technologies, growing personally and professionally along the way. 
+I'm here to learn all about the best tooling and practices for building web applications. I want to help increase the usability of software so that all demographics can participate and use modern technologies.
 
 ---
 
