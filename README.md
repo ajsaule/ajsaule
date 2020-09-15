@@ -1,6 +1,9 @@
 ### Hi there 👋
+<details> 
+  <summary> Github Stats </Summary>
+  <img align="center" src="https://github-readme-stats.ajsaule.vercel.app/api/pin/?username=ajsaule&repo=github-readme-stats" />
+</details>  
 
-https://github-readme-stats.ajsaule.vercel.app/
 <!--
 **ajsaule/ajsaule** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
