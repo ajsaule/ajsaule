@@ -3,6 +3,10 @@
 [<img align="left" alt="AndrejSaule | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="KevinGarciaFernandez | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 
+
+<br />
+<br />
+
 I'm here to learn all about the best tooling and practices for building web applications. I want to help increase the usability of software so that all demographics can participate and use modern technologies.
 
 ---
