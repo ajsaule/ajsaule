@@ -28,7 +28,7 @@ I'm learning all about the best practices and tooling to build web applications.
 <details> 
   <summary> Github Stats </summary>
   <img align="center" width="506" height="172px" src="https://github-readme-stats-indol-gamma.vercel.app/api?username=ajsaule&layout=compact&hide=contribs&theme=gotham" />
-  <img align="center" width="400" height="172px" style="margin-left: 20%"src="https://github-readme-stats-indol-gamma.vercel.app/api/top-langs?username=ajsaule&layout=compact&langs_count=8&theme=gotham" />
+  <img align="center" width="400" height="172px" style="margin-left: 200px"src="https://github-readme-stats-indol-gamma.vercel.app/api/top-langs?username=ajsaule&layout=compact&langs_count=8&theme=gotham" />
 </details>  
 
 <!--
