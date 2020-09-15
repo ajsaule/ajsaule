@@ -9,7 +9,7 @@ https://andrejsaule.com
 <br />
 <br />
 
-I'm here to learn all about the best tooling and practices for building web applications. I want to help increase the usability of software so that all demographics can participate and use modern technologies.
+I'm here to learn all about the best tooling and practices for building web applications. I want to design great software for the development of  applications that will assist people and comapnies to achieve their goals.
 
 ---
 
