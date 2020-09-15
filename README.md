@@ -1,12 +1,6 @@
 ### Hi there, I'm Andrej 👋
 
-Do you enjoy playing with new toys, making stuff alone or with your friends, then showing that off to everyone? You can say yes to any of those, that’s right, I thought you might agree. 
-
-Now imagine a world where the possibilities are almost infinite and you can make things in thousands of different ways while all you need is your computer and an internet connection. In this huge world you learn new languages and you get to use them to talk to the computer, telling it what to do so your ideas can come to life. 
-
-The computer will help by doing a lot of the boring repetitive tasks, while you take on the more fun challenging stuff. Chances are that will get stuck, so this means you will learn how to get unstuck and solve some tough problems - a valuable life skill. This is all while you are changing the world with the cool things that you make.
-
-The best part is, all the toys and tools are free and there are no restrictions on how you can use them within the rules of this new world. You will create, design, break and fix things while showing off to all your friends in person and online all without taking your butt off the couch. Doesn’t that just sound awesome? 
+I'm here to learn all about the best tooling and practices for building web applications. I want to help increase the usabiltiy of software so that all demographics can participate and use modern technologie, growing personally and progressionally along the way. 
 
 ---
 
@@ -27,7 +21,7 @@ The best part is, all the toys and tools are free and there are no restrictions 
 <details> 
   <summary> Github Stats </summary>
   
-  <img align="left" src="https://github-readme-stats-indol-gamma.vercel.app/api/top-langs?username=ajsaule&layout=compact&langs_count=8" />
+  <img align="left" width="100%" src="https://github-readme-stats-indol-gamma.vercel.app/api/top-langs?username=ajsaule&layout=compact&langs_count=8" />
 </details>  
 
 <!--
