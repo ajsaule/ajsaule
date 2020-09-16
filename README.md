@@ -7,6 +7,8 @@
 <br />
 <br />
 
+<img align='right' src='https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif' width='200"'>
+
 I'm learning all about the best practices and tooling to build web applications. I want to design great software for applications that will assist comapnies and people achieve their goals, making their lives <!-- more manageable and overall --> better along the way.
 
 ---
