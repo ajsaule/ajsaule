@@ -9,7 +9,7 @@
 <br />
 <br />
 
-I'm learning all about the best practices and tooling to build web applications. I want to design great software for applications that will help comapnies and their users achieve their goals, making their lives <!-- more manageable and overall --> better along the way.
+I'm learning all about the best practices and tooling to build great web applications. I want to design great software for applications that will help comapnies and their users achieve their goals, making their lives <!-- more manageable and overall --> better along the way.
 
 ---
 
