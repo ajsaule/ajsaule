@@ -1,6 +1,6 @@
 ### Hi there, I'm [Andrej!](https://wwww.andrejsaule.com) 👋
 
-<a href="https://wwww.andrejsaule.com" target="_blank" > </a>
+<a href="https://wwww.andrejsaule.com" target="_blank" >andrejsaule.com</a>
 
 [<img align="left" alt="AndrejSaule | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="KevinGarciaFernandez | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
@@ -30,7 +30,7 @@ I'm learning all about the best practices and tooling to build web applications.
 <details> 
   <summary> Github Stats </summary>
   <img align="center" src="https://github-readme-stats-indol-gamma.vercel.app/api?username=ajsaule&layout=compact&hide=contribs&theme=gotham" />
-  <img align="center" height="100px" src="https://github-readme-stats-indol-gamma.vercel.app/api/top-langs?username=ajsaule&layout=compact&langs_count=6&theme=gotham" />
+  <img align="center" src="https://github-readme-stats-indol-gamma.vercel.app/api/top-langs?username=ajsaule&layout=compact&langs_count=6&theme=gotham" />
 </details>  
 
 <!--
