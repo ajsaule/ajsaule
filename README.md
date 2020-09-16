@@ -3,11 +3,10 @@
 [<img align="left" alt="AndrejSaule | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="KevinGarciaFernandez | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 
-
-<br />
-<br />
-
 <img align='right' src='https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif' width='200"'>
+
+<br />
+<br />
 
 I'm learning all about the best practices and tooling to build web applications. I want to design great software for applications that will assist comapnies and people achieve their goals, making their lives <!-- more manageable and overall --> better along the way.
 
