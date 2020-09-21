@@ -13,8 +13,7 @@ I'm learning all about the best practices and tooling to build awesome web appli
 
 - <img align="left" alt="Book stack" width="25px" src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/72/docomo/205/books_1f4da.png" />I’m currently reading Eloquent Javascript & The Age of Surveillance Capitalism 
 - <img align="left" alt="Book stack" width="25px" src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/72/docomo/205/pencil_270f.png" />I'm currently learning React.js and Node.js
-- <img align="left" alt="Book stack" width="25px" src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/72/docomo/205/squared-cool_1f192.png
-" />I'm looking to collaborate on anything interesting and cool :)
+- <img align="left" alt="Book stack" width="25px" src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/72/docomo/205/squared-cool_1f192.png" />I'm looking to collaborate on anything interesting and cool :)
 
 ---
 
