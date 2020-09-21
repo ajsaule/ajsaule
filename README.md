@@ -11,7 +11,7 @@
 
 I'm learning all about the best practices and tooling to build awesome web applications. I want to design great software for applications that will help comapnies and their users achieve their goals, making their lives <!-- more manageable and overall --> better along the way.
 
-- <img align="left" alt="Book stack" width="25px" src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/72/docomo/205/books_1f4da.png" />I’m currently reading Eloquent Javascript & The Age of Surveillance Capitalism 
+- <img align="left" alt="Book stack" width="25px" src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/72/docomo/205/books_1f4da.png" />I’m currently reading [Eloquent Javascript](https://www.goodreads.com/book/show/8910666-eloquent-javascript) & [The Age of Surveillance Capitalism](https://www.goodreads.com/book/show/26195941-the-age-of-surveillance-capitalism?ac=1&from_search=true&qid=OJrOs7ypb7&rank=1) 
 - <img align="left" alt="Book stack" width="25px" src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/72/docomo/205/pencil_270f.png" />At the moment I am learning React.js and Node.js
 - <img align="left" alt="Book stack" width="25px" src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/72/docomo/205/squared-cool_1f192.png" />I want to collaborate on anything interesting, add me on socials and message me if you have any ideas! 
 
