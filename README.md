@@ -11,7 +11,7 @@
 
 I'm learning all about the best practices and tooling to build awesome web applications. I want to design great software for applications that will help comapnies and their users achieve their goals, making their lives <!-- more manageable and overall --> better along the way.
 
-<img align="left" alt="Book stack" width="25px" src="https://emojipedia.org/docomo/2013/books/" /> I’m currently reading Eloquent Javascript & The Age of Surveillance Capitalism 
+<img align="left" alt="Book stack" width="25px" src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/72/docomo/205/books_1f4da.png" /> I’m currently reading Eloquent Javascript & The Age of Surveillance Capitalism 
 
 ---
 
