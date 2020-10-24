@@ -12,16 +12,16 @@
 I'm learning all about the best practices and tooling to build awesome web applications. I want to design great software for applications that will help comapnies and their users achieve their goals, making their lives <!-- more manageable and overall --> better along the way.
 
 - <img align="left" alt="Book stack" width="24px" src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/72/docomo/205/books_1f4da.png" />I’m currently reading [Eloquent Javascript](https://www.goodreads.com/book/show/8910666-eloquent-javascript) & [The Age of Surveillance Capitalism](https://www.goodreads.com/book/show/26195941-the-age-of-surveillance-capitalism?ac=1&from_search=true&qid=OJrOs7ypb7&rank=1) 
-- <img align="left" alt="Book stack" width="24px" src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/72/docomo/205/pencil_270f.png" />At the moment I'm diving deeper into React.js and Node.js
+- <img align="left" alt="Book stack" width="24px" src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/72/docomo/205/pencil_270f.png" />At the moment I'm diving deeper into React.js, React Native & Node.js
 - <img align="left" alt="Book stack" width="24px" src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/72/docomo/205/squared-cool_1f192.png" />I'm open to collaborating on anything interesting and fun, add me on socials and message me if you have ideas! 
 
 ### Current projects 
 
-I am passionate aboubt accessibility and inclusiojn on the web so I am part of the latest <a href="https://remarkable.org.au/events/designathon/ ">Remarkable Designathon</a> to help solve the problem statement around; 
+<img align="left" alt="Peace sign" width="24px" src="https://emojigraph.org/media/au-kddi/victory-hand_270c-fe0f.png" />I am passionate about accessibility and inclusion on the web, so I am part of the latest <a href="https://remarkable.org.au/events/designathon/ ">Remarkable Designathon</a> to help solve the problem statement around..
 
 Inclusive eSports - How might we enable greater inclusion and access to eSports for people with disability to build competitive skills, connect with others and create identity as part of the gaming community?
 
-Stay tuned to hear about our progress! 
+<img align="left" alt="Book stack" width="24px" src="https://emojigraph.org/media/au-kddi/victory-hand_270c-fe0f.png" /> I am interested in Startups and Fintech, so I have teamed up <a href="https://www.plusthrive.com/">PlusThrive</a> who are building a platform to solve the painpoints around Small Business account management using Machine Learning and Artificial Intelligence.  
 
 ---
 
