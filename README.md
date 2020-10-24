@@ -21,7 +21,7 @@ I'm learning all about the best practices and tooling to build awesome web appli
 
 Inclusive eSports - How might we enable greater inclusion and access to eSports for people with disability to build competitive skills, connect with others and create identity as part of the gaming community?
 
-<img align="left" alt="Book stack" width="24px" src="https://emojigraph.org/media/au-kddi/victory-hand_270c-fe0f.png" /> I am interested in Startups and Fintech, so I have teamed up <a href="https://www.plusthrive.com/">PlusThrive</a> who are building a platform to solve the painpoints around Small Business account management using Machine Learning and Artificial Intelligence.  
+<img align="left" alt="Book stack" width="24px" src="https://emojigraph.org/media/au-kddi/victory-hand_270c-fe0f.png" /> I am interested in Startups and Fintech, so I have teamed up with <a href="https://www.plusthrive.com/">PlusThrive</a> who are building a platform to solve major painpoints around small business account management using Machine Learning and Artificial Intelligence.  
 
 ---
 
