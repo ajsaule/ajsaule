@@ -3,7 +3,7 @@
 <img align="right" src='https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif' width="150"> 
 
 [<img align="left" alt="AndrejSaule | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="KevinGarciaFernandez | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="AndrejSaule | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 
 
 <br />
@@ -17,7 +17,7 @@ I'm learning all about the best practices and tooling to build awesome web appli
 
 ### Current projects 
 
-<img align="left" alt="Peace sign" width="50px" src="https://emojigraph.org/media/au-kddi/victory-hand_270c-fe0f.png" />I am passionate about accessibility and inclusion on the web, so I am part of the latest <a href="https://remarkable.org.au/events/designathon/ ">Remarkable Designathon</a> to help solve the problem statement around inclusivity in eSports - How might we enable greater inclusion and access to eSports for people with a disability to also build competitive skills, connect with others and create identity as part of the gaming community?
+<img align="left" alt="Peace sign" width="55px" src="https://emojigraph.org/media/au-kddi/victory-hand_270c-fe0f.png" />I am passionate about accessibility and inclusion on the web, so I am part of the latest <a href="https://remarkable.org.au/events/designathon/ ">Remarkable Designathon</a> to help solve the problem statement around inclusivity in eSports - How might we enable greater inclusion and access to eSports for people with a disability to also build competitive skills, connect with others and create identity as part of the gaming community?
 
 <img align="left" alt="Peace sign" width="45px" src="https://emojigraph.org/media/au-kddi/victory-hand_270c-fe0f.png" /> I am interested in Startups and Fintech, so I have teamed up with <a href="https://www.plusthrive.com/">PlusThrive</a> who are building a platform to solve major painpoints around small business account management using Machine Learning and Artificial Intelligence.  
 
