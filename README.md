@@ -15,6 +15,14 @@ I'm learning all about the best practices and tooling to build awesome web appli
 - <img align="left" alt="Book stack" width="24px" src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/72/docomo/205/pencil_270f.png" />At the moment I'm diving deeper into React.js and Node.js
 - <img align="left" alt="Book stack" width="24px" src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/72/docomo/205/squared-cool_1f192.png" />I'm open to collaborating on anything interesting and fun, add me on socials and message me if you have ideas! 
 
+### Current projects 
+
+I am passionate aboubt accessibility and inclusiojn on the web so I am part of the latest <a href="https://remarkable.org.au/events/designathon/ ">Remarkable Designathon</a> to help solve the problem statement around; 
+
+Inclusive eSports - How might we enable greater inclusion and access to eSports for people with disability to build competitive skills, connect with others and create identity as part of the gaming community?
+
+Stay tuned to hear about our progress! 
+
 ---
 
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
