@@ -17,7 +17,7 @@ I'm getting familiar with tooling and experimenting so that I can learn some bes
 
 ### Current projects 
 
-<img align="left" alt="Peace sign" width="55px" src="https://emojigraph.org/media/au-kddi/victory-hand_270c-fe0f.png" /> I am really interested in Fintech and Startups, so I am using my free time to help <a href="https://www.plusthrive.com/">Thriv</a> build their platform which will attempt to solve some of the major pain-points around small business account management.  
+<img align="left" alt="Peace sign" width="55px" src="https://emojigraph.org/media/au-kddi/victory-hand_270c-fe0f.png" /> I am really interested in Fintech and Startups, so I am using my free time to help <a href="https://www.plusthrive.com/">Thrive</a> build their platform which will attempt to solve some of the major pain-points around small business account management.  
 <br>
 <img align="left" alt="Peace sign" width="65px" src="https://emojigraph.org/media/au-kddi/victory-hand_270c-fe0f.png" />I am keen on accessibility and inclusion on the web, so I registered to the latest <a href="https://remarkable.org.au/events/designathon/ ">Remarkable Designathon</a> to help solve a problem statement around inclusivity in eSports - "How might we enable greater inclusion and access to eSports for people with a disability to also build competitive skills, connect with others and create identity as part of the gaming community?"
 
