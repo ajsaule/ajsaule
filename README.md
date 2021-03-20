@@ -11,8 +11,8 @@
 
 I'm getting familiar with tooling and experimenting so that I can learn some best practices around building awesome applications. I want to design great software for applications that will help companies and their users achieve their goals, making their lives <!-- more manageable and overall --> better along the way.
 
-- <img align="left" alt="Book stack" width="24px" src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/72/docomo/205/books_1f4da.png" />I’m currently reading [Eloquent Javascript](https://www.goodreads.com/book/show/8910666-eloquent-javascript) & [The Age of Surveillance Capitalism](https://www.goodreads.com/book/show/26195941-the-age-of-surveillance-capitalism?ac=1&from_search=true&qid=OJrOs7ypb7&rank=1) 
 - <img align="left" alt="Book stack" width="24px" src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/72/docomo/205/pencil_270f.png" />I'm diving deeper into React.js, React Native & Node.js
+- <img align="left" alt="Book stack" width="24px" src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/72/docomo/205/books_1f4da.png" />I’m currently reading [Eloquent Javascript](https://www.goodreads.com/book/show/8910666-eloquent-javascript) & [The Age of Surveillance Capitalism](https://www.goodreads.com/book/show/26195941-the-age-of-surveillance-capitalism?ac=1&from_search=true&qid=OJrOs7ypb7&rank=1) 
 - <img align="left" alt="Book stack" width="24px" src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/72/docomo/205/squared-cool_1f192.png" />I'm open to collaborating on anything interesting and fun, add me on socials and message me if you have ideas! 
 
 ### Current projects 
