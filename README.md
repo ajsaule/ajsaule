@@ -25,9 +25,9 @@ I'm a frontend developer who primarily works with React, at the moment I am lear
 
 ### Things i've been part of 
 
-<img align="left" alt="Growth" width="35px" src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/144/au-kddi/190/seedling_1f331.png" /> Being interested in Fintech I teamed up with <a href="https://www.plusthrive.com/">Thrive</a> and contributed to developing their exclusive waitlist mobile app that was launched to Google Play and App Store early 2020.
+<img align="left" alt="Launch" width="35px" src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/144/au-kddi/190/rocket_1f680.png" /> Being interested in Fintech I teamed up with <a href="https://www.plusthrive.com/">Thrive</a> and contributed to developing their exclusive waitlist mobile app that was launched to Google Play and App Store early 2020.
 
-<img align="left" alt="Growth" width="35px" src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/144/au-kddi/190/seedling_1f331.png" /> To learn more about accessibility I participated in the <a href="https://remarkable.org.au/events/designathon/ ">Remarkable Designathon</a> end of 2019 to help solve the problem statement - "How might we enable greater inclusion and access to eSports for people with a disability to also build competitive skills, connect with others and create identity as part of the gaming community?".
+<img align="left" alt="launch" width="35px" src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/144/au-kddi/190/rocket_1f680.png" /> To learn more about accessibility I participated in the <a href="https://remarkable.org.au/events/designathon/ ">Remarkable Designathon</a> end of 2019 to help solve the problem statement - "How might we enable greater inclusion and access to eSports for people with a disability to also build competitive skills, connect with others and create identity as part of the gaming community?".
                                                      
 <!-- <img align="left" alt="Peace sign" width="55px" src="https://emojigraph.org/media/au-kddi/victory-hand_270c-fe0f.png" /> I am interested in Fintech, so I am using my free time to help <a href="https://www.plusthrive.com/">Thrive</a> build their platform which will attempt to solve some of the major pain-points around small business account management.  
 <br>
@@ -59,8 +59,8 @@ I'm a frontend developer who primarily works with React, at the moment I am lear
 [linkedin]: https://www.linkedin.com/in/andrejsaule/
 [twitter]: https://twitter.com/ajsaule
 
-<img align="right" alt="Book stack" width="30px" src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/144/au-kddi/190/see-no-evil-monkey_1f648.png" />
-<img align="right" alt="Book stack" width="30px" src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/144/au-kddi/190/hear-no-evil-monkey_1f649.png" />
-<img align="right" alt="Book stack" width="30px" src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/144/au-kddi/190/speak-no-evil-monkey_1f64a.png" />
+<img align="right" alt="Book stack" width="35px" src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/144/au-kddi/190/see-no-evil-monkey_1f648.png" />
+<img align="right" alt="Book stack" width="35px" src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/144/au-kddi/190/hear-no-evil-monkey_1f649.png" />
+<img align="right" alt="Book stack" width="35px" src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/144/au-kddi/190/speak-no-evil-monkey_1f64a.png" />
 
 <!-- https://emojipedia.org/au-kddi/ --> 
