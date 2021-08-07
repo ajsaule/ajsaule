@@ -17,7 +17,7 @@ I'm a frontend developer who primarily works with React, at the moment I am lear
 
 ### Current projects 
 
-<img align="left" alt="Peace sign" width="35px" src="https://emojigraph.org/media/au-kddi/victory-hand_270c-fe0f.png" /> Working on a cross platform application that is focusing on creating an inclusive and friendly environment for anyone to flex their creativity.. Hosted @ [Tinyrama](https://tinyrama.com), sign up and post your own creation!
+<img align="left" alt="Peace sign" width="35px" src="https://emojigraph.org/media/au-kddi/victory-hand_270c-fe0f.png" /> Working on a cross platform application which focuses on creating an inclusive and friendly environment for anyone to flex their creativity.. Hosted @ [Tinyrama](https://tinyrama.com), sign up and post your own creation! Also deployed to Mac App Store (iOS and Android coming soon)
 
 <img align="left" alt="Peace sign" width="35px" src="https://emojigraph.org/media/au-kddi/victory-hand_270c-fe0f.png" /> Always looking to contribute to open source projects.. 
 
@@ -61,3 +61,6 @@ I'm a frontend developer who primarily works with React, at the moment I am lear
 <img align="left" alt="Book stack" width="24px" src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/144/au-kddi/190/speak-no-evil-monkey_1f64a.png" />
 <img align="left" alt="Book stack" width="24px" src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/144/au-kddi/190/hear-no-evil-monkey_1f649.png" />
 <img align="left" alt="Book stack" width="24px" src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/144/au-kddi/190/see-no-evil-monkey_1f648.png" />
+
+
+ <img align="right" alt="Book stack" width="24px" src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/144/au-kddi/190/rocket_1f680.png"> When moon..</img>
