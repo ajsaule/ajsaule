@@ -8,13 +8,13 @@
 <br />
 <br />
 
-I'm a frontend developer who primarily works with React, at the moment I am learning best practices around building awesome web and mobile applications. I want to be develop great software for apps that will ultimately have a net positive impact on society. 
+I'm a frontend developer primarily working with React, at the moment I am learning best practices around building awesome web and mobile applications. I want to be develop great software for apps that will ultimately have a net positive impact on society. 
 
 ### Learning 
 
-<img align="left" alt="Pencillin" width="30px" src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/72/docomo/205/pencil_270f.png" />Diving deeper into React.js, React Native & Node.js 
+<img align="left" alt="Pencillin" width="30px" src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/72/docomo/205/pencil_270f.png" /> Diving deeper into React.js, React Native & Node.js 
 
-<img align="left" alt="Book stack" width="30px" src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/72/docomo/205/books_1f4da.png" />Currently reading [Eloquent Javascript](https://www.goodreads.com/book/show/8910666-eloquent-javascript) & [The Age of Surveillance Capitalism](https://www.goodreads.com/book/show/26195941-the-age-of-surveillance-capitalism?ac=1&from_search=true&qid=OJrOs7ypb7&rank=1) 
+<img align="left" alt="Book stack" width="30px" src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/72/docomo/205/books_1f4da.png" /> Reading [Eloquent Javascript](https://www.goodreads.com/book/show/8910666-eloquent-javascript) & [The Age of Surveillance Capitalism](https://www.goodreads.com/book/show/26195941-the-age-of-surveillance-capitalism?ac=1&from_search=true&qid=OJrOs7ypb7&rank=1) 
 
 ### Current projects 
 
