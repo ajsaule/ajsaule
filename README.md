@@ -13,6 +13,7 @@ I'm a frontend developer who primarily works with React, at the moment I am lear
 ### Learning 
 
 <img align="left" alt="Pencillin" width="24px" src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/72/docomo/205/pencil_270f.png" />Diving deeper into React.js, React Native & Node.js 
+
 <img align="left" alt="Book stack" width="24px" src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/72/docomo/205/books_1f4da.png" />Currently reading [Eloquent Javascript](https://www.goodreads.com/book/show/8910666-eloquent-javascript) & [The Age of Surveillance Capitalism](https://www.goodreads.com/book/show/26195941-the-age-of-surveillance-capitalism?ac=1&from_search=true&qid=OJrOs7ypb7&rank=1) 
 
 ### Current projects 
@@ -21,7 +22,7 @@ I'm a frontend developer who primarily works with React, at the moment I am lear
 
 <img align="left" alt="Peace sign" width="35px" src="https://emojigraph.org/media/au-kddi/victory-hand_270c-fe0f.png" /> Always looking to contribute to open source projects.. 
 
-<img align="left" alt="Cool" width="24px" src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/72/docomo/205/squared-cool_1f192.png" />Open to collaborating on anything interesting, fun and social-minded, message me on socials if you have ideas! 
+<img align="left" alt="Peace sign" width="35px" src="https://emojigraph.org/media/au-kddi/victory-hand_270c-fe0f.png" /> Open to collaborating on anything interesting, fun and social-minded, message me on socials if you have ideas! 
 
 ### Things i've been part of 
 
