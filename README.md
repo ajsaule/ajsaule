@@ -12,23 +12,23 @@ I'm a frontend developer who primarily works with React, at the moment I am lear
 
 ### Learning 
 
-<img align="left" alt="Pencillin" width="24px" src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/72/docomo/205/pencil_270f.png" />Diving deeper into React.js, React Native & Node.js 
+<img align="left" alt="Pencillin" width="30px" src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/72/docomo/205/pencil_270f.png" />Diving deeper into React.js, React Native & Node.js 
 
-<img align="left" alt="Book stack" width="24px" src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/72/docomo/205/books_1f4da.png" />Currently reading [Eloquent Javascript](https://www.goodreads.com/book/show/8910666-eloquent-javascript) & [The Age of Surveillance Capitalism](https://www.goodreads.com/book/show/26195941-the-age-of-surveillance-capitalism?ac=1&from_search=true&qid=OJrOs7ypb7&rank=1) 
+<img align="left" alt="Book stack" width="30px" src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/72/docomo/205/books_1f4da.png" />Currently reading [Eloquent Javascript](https://www.goodreads.com/book/show/8910666-eloquent-javascript) & [The Age of Surveillance Capitalism](https://www.goodreads.com/book/show/26195941-the-age-of-surveillance-capitalism?ac=1&from_search=true&qid=OJrOs7ypb7&rank=1) 
 
 ### Current projects 
 
-<img align="left" alt="Peace sign" width="35px" src="https://emojigraph.org/media/au-kddi/victory-hand_270c-fe0f.png" /> Working on a cross platform application which focuses on creating an inclusive and friendly environment for anyone to flex their creativity.. Hosted @ [Tinyrama](https://tinyrama.com), sign up and post your own creation! Also deployed to Mac App Store (iOS and Android coming soon)
+<img align="left" alt="Peace sign" width="38px" src="https://emojigraph.org/media/au-kddi/victory-hand_270c-fe0f.png" /> Working on a cross platform application which focuses on creating an inclusive and friendly environment for anyone to flex their creativity.. Hosted @ [Tinyrama](https://tinyrama.com), sign up and post your own creation! Also deployed to Mac App Store (iOS and Android coming soon)
 
-<img align="left" alt="Peace sign" width="35px" src="https://emojigraph.org/media/au-kddi/victory-hand_270c-fe0f.png" /> Always looking to contribute to open source projects.. 
+<img align="left" alt="Peace sign" width="38px" src="https://emojigraph.org/media/au-kddi/victory-hand_270c-fe0f.png" /> Always looking to contribute to open source projects.. 
 
-<img align="left" alt="Peace sign" width="35px" src="https://emojigraph.org/media/au-kddi/victory-hand_270c-fe0f.png" /> Open to collaborating on anything interesting, fun and social-minded, message me on socials if you have ideas! 
+<img align="left" alt="Peace sign" width="38px" src="https://emojigraph.org/media/au-kddi/victory-hand_270c-fe0f.png" /> Open to collaborating on anything interesting, fun and social-minded, message me on socials if you have ideas! 
 
 ### Things i've been part of 
 
-<img align="left" alt="Launch" width="35px" src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/144/au-kddi/190/rocket_1f680.png" /> Being interested in Fintech I teamed up with <a href="https://www.plusthrive.com/">Thrive</a> and contributed to developing their exclusive waitlist mobile app that was launched to Google Play and App Store early 2020.
+<img align="left" alt="Launch" width="38px" src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/144/au-kddi/190/rocket_1f680.png" /> Being interested in Fintech I teamed up with <a href="https://www.plusthrive.com/">Thrive</a> and contributed to developing their exclusive waitlist mobile app that was launched to Google Play and App Store early 2020.
 
-<img align="left" alt="launch" width="35px" src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/144/au-kddi/190/rocket_1f680.png" /> To learn more about accessibility I participated in the <a href="https://remarkable.org.au/events/designathon/ ">Remarkable Designathon</a> end of 2019 to help solve the problem statement - "How might we enable greater inclusion and access to eSports for people with a disability to also build competitive skills, connect with others and create identity as part of the gaming community?".
+<img align="left" alt="launch" width="38px" src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/144/au-kddi/190/rocket_1f680.png" /> To learn more about accessibility I participated in the <a href="https://remarkable.org.au/events/designathon/ ">Remarkable Designathon</a> end of 2019 to help solve the problem statement - "How might we enable greater inclusion and access to eSports for people with a disability to also build competitive skills, connect with others and create identity as part of the gaming community?".
                                                      
 <!-- <img align="left" alt="Peace sign" width="55px" src="https://emojigraph.org/media/au-kddi/victory-hand_270c-fe0f.png" /> I am interested in Fintech, so I am using my free time to help <a href="https://www.plusthrive.com/">Thrive</a> build their platform which will attempt to solve some of the major pain-points around small business account management.  
 <br>
