@@ -58,6 +58,6 @@ I'm a frontend developer who primarily works with React, at the moment I am lear
 [linkedin]: https://www.linkedin.com/in/andrejsaule/
 [twitter]: https://twitter.com/ajsaule
 
-<img align="right" alt="Book stack" width="30px" src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/144/au-kddi/190/speak-no-evil-monkey_1f64a.png" />
-<img align="right" alt="Book stack" width="30px" src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/144/au-kddi/190/hear-no-evil-monkey_1f649.png" />
 <img align="right" alt="Book stack" width="30px" src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/144/au-kddi/190/see-no-evil-monkey_1f648.png" />
+<img align="right" alt="Book stack" width="30px" src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/144/au-kddi/190/hear-no-evil-monkey_1f649.png" />
+<img align="right" alt="Book stack" width="30px" src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/144/au-kddi/190/speak-no-evil-monkey_1f64a.png" />
