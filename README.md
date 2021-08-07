@@ -9,7 +9,7 @@
 <br />
 <br />
 
-I'm a frontend developer who primarily works with React, currently I am learning best practices around building awesome web and mobile applications. I want to be develop great software for apps that will ultimately have a net positive impact on society. 
+I'm a frontend developer who primarily works with React, at the moment I am learning best practices around building awesome web and mobile applications. I want to be develop great software for apps that will ultimately have a net positive impact on society. 
 
 - <img align="left" alt="Book stack" width="24px" src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/72/docomo/205/pencil_270f.png" />Diving deeper into React.js, React Native & Node.js
 - <img align="left" alt="Book stack" width="24px" src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/72/docomo/205/books_1f4da.png" />Currently reading [Eloquent Javascript](https://www.goodreads.com/book/show/8910666-eloquent-javascript) & [The Age of Surveillance Capitalism](https://www.goodreads.com/book/show/26195941-the-age-of-surveillance-capitalism?ac=1&from_search=true&qid=OJrOs7ypb7&rank=1) 
@@ -19,7 +19,7 @@ I'm a frontend developer who primarily works with React, currently I am learning
 
 <img align="left" alt="Peace sign" width="35px" src="https://emojigraph.org/media/au-kddi/victory-hand_270c-fe0f.png" /> Always looking to contribute to open source projects.. 
 
-<img align="left" alt="Peace sign" width="35px" src="https://emojigraph.org/media/au-kddi/victory-hand_270c-fe0f.png" /> Working on a cross platform application that is focusing on creating an inclusive and friendly environment for anyone to share their created art .. Currently hosted at [Tinyrama pixel art](https://tinyrama.com)
+<img align="left" alt="Peace sign" width="35px" src="https://emojigraph.org/media/au-kddi/victory-hand_270c-fe0f.png" /> Working on a cross platform application that is focusing on creating an inclusive and friendly environment for anyone to share their created art .. Hosted @ [Tinyrama](https://tinyrama.com), sign up and make a post! :D 
 
 <!-- <img align="left" alt="Peace sign" width="55px" src="https://emojigraph.org/media/au-kddi/victory-hand_270c-fe0f.png" /> I am interested in Fintech, so I am using my free time to help <a href="https://www.plusthrive.com/">Thrive</a> build their platform which will attempt to solve some of the major pain-points around small business account management.  
 <br>
