@@ -18,7 +18,7 @@ I'm a frontend developer who primarily works with React, at the moment I am lear
 
 ### Current projects 
 
-<img align="left" alt="Peace sign" width="38px" src="https://emojigraph.org/media/au-kddi/victory-hand_270c-fe0f.png" /> Working on a cross platform application which focuses on creating an inclusive and friendly environment for anyone to flex their creativity.. Hosted @ [Tinyrama](https://tinyrama.com), sign up and post your own creation! Also deployed to Mac App Store (iOS and Android coming soon)
+<img align="left" alt="Peace sign" width="42px" src="https://emojigraph.org/media/au-kddi/victory-hand_270c-fe0f.png" /> Working on a cross platform application which focuses on creating an inclusive and friendly environment for anyone to flex their creativity.. Hosted @ [Tinyrama](https://tinyrama.com), sign up and post your own creation! Also deployed to Mac App Store (iOS and Android coming soon)
 
 <img align="left" alt="Peace sign" width="38px" src="https://emojigraph.org/media/au-kddi/victory-hand_270c-fe0f.png" /> Always looking to contribute to open source projects.. 
 
@@ -28,7 +28,7 @@ I'm a frontend developer who primarily works with React, at the moment I am lear
 
 <img align="left" alt="Launch" width="38px" src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/144/au-kddi/190/rocket_1f680.png" /> Being interested in Fintech I teamed up with <a href="https://www.plusthrive.com/">Thrive</a> and contributed to developing their exclusive waitlist mobile app that was launched to Google Play and App Store early 2020.
 
-<img align="left" alt="launch" width="38px" src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/144/au-kddi/190/rocket_1f680.png" /> To learn more about accessibility I participated in the <a href="https://remarkable.org.au/events/designathon/ ">Remarkable Designathon</a> end of 2019 to help solve the problem statement - "How might we enable greater inclusion and access to eSports for people with a disability to also build competitive skills, connect with others and create identity as part of the gaming community?".
+<img align="left" alt="launch" width="42px" src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/144/au-kddi/190/rocket_1f680.png" /> To learn more about accessibility I participated in the <a href="https://remarkable.org.au/events/designathon/ ">Remarkable Designathon</a> end of 2019 to help solve the problem statement - "How might we enable greater inclusion and access to eSports for people with a disability to also build competitive skills, connect with others and create identity as part of the gaming community?".
                                                      
 <!-- <img align="left" alt="Peace sign" width="55px" src="https://emojigraph.org/media/au-kddi/victory-hand_270c-fe0f.png" /> I am interested in Fintech, so I am using my free time to help <a href="https://www.plusthrive.com/">Thrive</a> build their platform which will attempt to solve some of the major pain-points around small business account management.  
 <br>
