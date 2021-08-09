@@ -8,7 +8,7 @@
 <br />
 <br />
 
-I'm a frontend developer primarily working with React, at the moment I am learning best practices around building awesome web and mobile applications. I want to be develop great software for apps that will ultimately have a net positive impact on society. 
+I'm a frontend developer who primarily works with React, at the moment I am learning best practices around building awesome web and mobile applications. I want to be developing great software for apps that will ultimately have a net positive impact on society. 
 
 ### Learning 
 
