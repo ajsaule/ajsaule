@@ -20,7 +20,7 @@ I'm a frontend developer primarily working with React, at the moment I am learni
 
 <img align="left" alt="Peace sign" width="45px" src="https://emojigraph.org/media/au-kddi/victory-hand_270c-fe0f.png" /> Working on a cross platform application which focuses on creating an inclusive and friendly environment for anyone to flex their creativity.. Hosted @ [Tinyrama](https://tinyrama.com), sign up and post your own creation! Also deployed to Mac App Store (iOS and Android coming soon)
 
-<img align="left" alt="Peace sign" width="38px" src="https://emojigraph.org/media/au-kddi/victory-hand_270c-fe0f.png" /> Always looking to contribute to open source projects.. also looking to collaborate on anything interesting, fun and social-minded, message me on socials if you have ideas! 
+<img align="left" alt="Peace sign" width="38px" src="https://emojigraph.org/media/au-kddi/victory-hand_270c-fe0f.png" /> Always looking to contribute to open source projects.. also looking to collaborate on anything interesting, fun and socially-minded, message me on socials if you have ideas! 
 
 
 ### Things i've been part of 
