@@ -16,7 +16,9 @@ I'm a frontend developer who primarily works with React, at the moment I am lear
 
 <img align="left" alt="Book stack" width="30px" src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/72/docomo/205/books_1f4da.png" /> Reading [Eloquent Javascript](https://www.goodreads.com/book/show/8910666-eloquent-javascript) & [The Age of Surveillance Capitalism](https://www.goodreads.com/book/show/26195941-the-age-of-surveillance-capitalism?ac=1&from_search=true&qid=OJrOs7ypb7&rank=1) 
 
-### Current projects 
+### Current projects
+
+<img align="left" alt="Peace sign" width="45px" src="https://emojigraph.org/media/au-kddi/victory-hand_270c-fe0f.png" /> Part of the [AKQA](https://akqa.com) team as a frontend developer, more to come soon... 
 
 <img align="left" alt="Peace sign" width="45px" src="https://emojigraph.org/media/au-kddi/victory-hand_270c-fe0f.png" /> Working on a cross platform application which focuses on creating an inclusive and friendly environment for anyone to flex their creativity.. Hosted @ [Tinyrama](https://tinyrama.com), sign up and post your own creation! Also deployed to Mac App Store (iOS and Android coming soon)
 
