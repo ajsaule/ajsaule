@@ -12,14 +12,12 @@ I'm a frontend developer who primarily works with React, at the moment I am lear
 
 ### Learning 
 
-<img align="left" alt="Pencillin" width="30px" src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/72/docomo/205/pencil_270f.png" /> Diving deeper into React.js, React Native & Node.js 
+<img align="left" alt="Pencillin" width="30px" src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/72/docomo/205/pencil_270f.png" /> Diving deeper into React.js, React Native & the Node.js ecosystem
 
 <img align="left" alt="Book stack" width="30px" src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/72/docomo/205/books_1f4da.png" /> Reading [Eloquent Javascript](https://www.goodreads.com/book/show/8910666-eloquent-javascript) & [The Age of Surveillance Capitalism](https://www.goodreads.com/book/show/26195941-the-age-of-surveillance-capitalism?ac=1&from_search=true&qid=OJrOs7ypb7&rank=1) 
 
 ### Current projects
 
-<!-- <img align="left" alt="Peace sign" width="45px" src="https://emojigraph.org/media/au-kddi/victory-hand_270c-fe0f.png" /> Part of the [AKQA](https://akqa.com) team as a frontend developer, more to come soon... 
- -->
 
 <img align="left" alt="Peace sign" width="45px" src="https://emojigraph.org/media/au-kddi/victory-hand_270c-fe0f.png" /> Working on a cross platform application which focuses on creating an inclusive and friendly environment for anyone to flex their creativity.. Hosted @ [Tinyrama](https://tinyrama.com), sign up and post your own creation! Also deployed to Mac App Store (iOS and Android coming soon)
 
@@ -56,6 +54,8 @@ I'm a frontend developer who primarily works with React, at the moment I am lear
 
 ---
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=ajsaule)](https://git.io/streak-stats)
+
 <details> 
   <summary> Github Stats </summary>
   <img align="center" height="165px" src="https://github-readme-stats-indol-gamma.vercel.app/api?username=ajsaule&layout=compact&hide=contribs&theme=prussian" />
@@ -65,8 +65,8 @@ I'm a frontend developer who primarily works with React, at the moment I am lear
 [linkedin]: https://www.linkedin.com/in/andrejsaule/
 [twitter]: https://twitter.com/ajsaule
 
-<img align="right" alt="Book stack" width="35px" src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/144/au-kddi/190/see-no-evil-monkey_1f648.png" />
-<img align="right" alt="Book stack" width="35px" src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/144/au-kddi/190/hear-no-evil-monkey_1f649.png" />
-<img align="right" alt="Book stack" width="35px" src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/144/au-kddi/190/speak-no-evil-monkey_1f64a.png" />
+<img align="right" alt="See" width="35px" src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/144/au-kddi/190/see-no-evil-monkey_1f648.png" />
+<img align="right" alt="Hear" width="35px" src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/144/au-kddi/190/hear-no-evil-monkey_1f649.png" />
+<img align="right" alt="Speak" width="35px" src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/144/au-kddi/190/speak-no-evil-monkey_1f64a.png" />
 
 <!-- https://emojipedia.org/au-kddi/ --> 
