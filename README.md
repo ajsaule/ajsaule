@@ -69,3 +69,10 @@ I'm a frontend developer who primarily works with React, at the moment I am lear
 <img align="right" alt="Speak" width="35px" src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/144/au-kddi/190/speak-no-evil-monkey_1f64a.png" />
 
 <!-- https://emojipedia.org/au-kddi/ --> 
+
+<p class="codepen" data-height="300" data-theme-id="dark" data-default-tab="html,result" data-slug-hash="WNyNjoa" data-user="ajsaule" style="height: 300px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;">
+  <span>See the Pen <a href="https://codepen.io/ajsaule/pen/WNyNjoa">
+  Untitled</a> by ajsaule (<a href="https://codepen.io/ajsaule">@ajsaule</a>)
+  on <a href="https://codepen.io">CodePen</a>.</span>
+</p>
+<script async src="https://cpwebassets.codepen.io/assets/embed/ei.js"></script>
