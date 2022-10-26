@@ -58,7 +58,7 @@ I'm a frontend developer who primarily works with React, at the moment I am lear
   <summary> Github Stats </summary>
   <img align="center" height="165px" src="https://github-readme-stats-indol-gamma.vercel.app/api?username=ajsaule&layout=compact&hide=contribs&theme=prussian" />
   <img align="center" src="https://github-readme-stats-indol-gamma.vercel.app/api/top-langs?username=ajsaule&layout=compact&langs_count=6&theme=prussian" />
-   [![GitHub Streak](https://streak-stats.demolab.com?user=ajsaule&theme=material&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+   <img align="center" src="https://streak-stats.demolab.com?user=ajsaule&theme=material&date_format=M%20j%5B%2C%20Y%5D" />
 </details>  
 
 [linkedin]: https://www.linkedin.com/in/andrejsaule/
