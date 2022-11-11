@@ -40,7 +40,7 @@ I'm a frontend developer who primarily works with React, at the moment I am lear
 
 <br />
 
---
+---
 
 <details> 
   <summary> Github Stats </summary>
