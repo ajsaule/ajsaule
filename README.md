@@ -1,4 +1,4 @@
-## Hello world, i'm [Andrej](https://www.andrejsaule.com)  👋
+### Hello world, i'm [Andrej](https://www.andrejsaule.com)  👋
 
 <img align="right" src='https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif' width="150"> 
 
